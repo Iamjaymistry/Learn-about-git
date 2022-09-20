@@ -4,3 +4,4 @@ Git is widly used where more than two people are working on project at the same 
 
 GitHub is a software product to view all our repository.
 
+Github was acquired by microsoft corporation for 26 Billion $ 
