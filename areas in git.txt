@@ -1,0 +1,29 @@
+There are three areas in git
+1. The working area
+2. The staging area
+3. The local repository
+
+1> The working area
+	The working area is the area where you are currently working. It is where your files live.
+ 	The area is also known as the "Untracked" area of git.
+	Any changes to files will be marked and seen in the working tree.
+	Here you make changes and don't explicitly save them to git repository, you will lose the changes.
+	If you make changes to files in your working tree git will recognize that they are modified, 
+		and you will have to save those modified files by adding those to staging area.
+
+2> The staging area
+	The staging area is when git starts tracking and saving changes that occur in files.
+	To see what is in your staging area? Run the command "git status".
+	How do you add files to your staging area from your working tree? 
+		Run the command "git add <Filename>".
+	Want to add everything from working tree, then run "git add ."
+		The . operator is a wildcard meaning all files.
+
+3> The local repository
+	It is the area that saves everything.
+	It is everything in your .git directory.
+	Mainly all of your commits.
+	How do you add files from your staging area to local repository??
+		Run the "git commit" command
+			takes all changes in the staging area, wraps them together and puts them in your
+			local repository.
