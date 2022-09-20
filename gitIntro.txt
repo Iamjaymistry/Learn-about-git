@@ -1,7 +1,8 @@
-Git is a version control system.
+what is git?
 
-Git is widly used where more than two people are working on project at the same time.
+Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. 
+It is primarily used for source code management in software development and was initially created by Linus Torvalds for development of the Linux Kernel.
 
-GitHub is a software product to view all our repository.
-
-Github was acquired by microsoft corporation for 26 Billion $ 
+Git is not Github. 
+Git is the version control software, and Github is a git repository hosting service which offers all the source code management provided in git. 
+Github is where you upload your git repository.
