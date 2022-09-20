@@ -1,0 +1,10 @@
+git init -> To initialize repository
+
+git add . -> To add all files of folder into staging area from working directory
+
+git commit -m "Message" -> To commit all changes with proper message from staging area to repository
+
+git remote add origin <Repositroy url> - To push changes to this location
+
+git push -u origin master -> To push all changes to your hosting service 
+
