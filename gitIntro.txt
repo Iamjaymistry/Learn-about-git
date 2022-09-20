@@ -6,3 +6,20 @@ It is primarily used for source code management in software development and was 
 Git is not Github. 
 Git is the version control software, and Github is a git repository hosting service which offers all the source code management provided in git. 
 Github is where you upload your git repository.
+
+Characteristics of git
+
+1. Support non-linear development
+	Non-linear development allows yourself to work on different parts of system concurrently.
+	May be you are working on the UI of your system and when you remember a bug in the back-end,
+	you can save what you are working on , fix the bug and return to your previous work.
+
+2. Distributed Development
+ 	Distributed development allows for multiple people to be working on the same project at the same time.
+	Without version control system you would not be able to work on the same file.
+
+3. Safeguards
+	Everything saved in git is accessible at some later point. Even if you delete it!!
+	There is a record of your save history.
+	It is tough to corrupt your code.
+   
