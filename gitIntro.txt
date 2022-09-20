@@ -1,3 +1,6 @@
 Git is a version control system.
 
-Git is widly used where more than two people are working on project at the same time
+Git is widly used where more than two people are working on project at the same time.
+
+GitHub is a software product to view all our repository.
+
